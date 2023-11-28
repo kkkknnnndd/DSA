@@ -1,0 +1,25 @@
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\bin\Debug\DISPLAYMENU.exe.config
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\bin\Debug\DISPLAYMENU.exe
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\bin\Debug\DISPLAYMENU.pdb
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\DISPLAYMENU.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\DISPLAYMENU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\DISPLAYMENU.DISPLAYMENU.resources
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\fCOPY.fCOPY.resources
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\fCUT.fCUT.resources
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\DISPLAYMENU.Properties.Resources.resources
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\DISPLAYMENU.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\DISPLAYMENU.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\DISPLAYMENU.exe
+C:\Users\Acer\Desktop\Đồ án các môn học\ĐỒ ÁN CTDL\DISPLAYMENU\DISPLAYMENU\obj\Debug\DISPLAYMENU.pdb
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\bin\Debug\DISPLAYMENU.exe.config
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\bin\Debug\DISPLAYMENU.exe
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\bin\Debug\DISPLAYMENU.pdb
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\obj\Debug\DISPLAYMENU.csproj.AssemblyReference.cache
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\obj\Debug\DISPLAYMENU.DISPLAYMENU.resources
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\obj\Debug\fCOPY.fCOPY.resources
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\obj\Debug\fCUT.fCUT.resources
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\obj\Debug\DISPLAYMENU.Properties.Resources.resources
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\obj\Debug\DISPLAYMENU.csproj.GenerateResource.cache
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\obj\Debug\DISPLAYMENU.csproj.CoreCompileInputs.cache
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\obj\Debug\DISPLAYMENU.exe
+C:\Users\dailo\Documents\CLIPBOARDREBUILT\CLIPBOARD REBUILT\DISPLAYMENU\obj\Debug\DISPLAYMENU.pdb
